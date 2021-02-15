@@ -1,0 +1,14 @@
+table{
+    padding-left: 150px;
+}
+h1{
+    text-align: center;
+}
+h3{
+   text-align : center;
+}
+.btn{
+    text-align: right;
+    margin-right: 30px;
+    color: blue;
+}
